@@ -55,3 +55,18 @@ No external packages are required besides Python’s standard library. Make sure
 
 ```bash
 python --version
+```
+
+### Running the Script
+Clone (or download) this repository and navigate into it:
+
+```bash
+git clone https://github.com/your-username/sieve-of-eratosthenes.git
+cd sieve-of-eratosthenes
+```
+
+Run the script:
+
+```bash
+python main.py
+```
